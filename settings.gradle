@@ -1,0 +1,13 @@
+//dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+//    repositories {
+//        google()
+//        mavenCentral()
+//        maven {
+//            name "jitpack"
+//            url "https://jitpack.io"
+//        }
+//    }
+//}
+rootProject.name = "Android WebView Test"
+include ':app'
